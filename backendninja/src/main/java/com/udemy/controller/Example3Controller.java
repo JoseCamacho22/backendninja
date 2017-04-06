@@ -34,6 +34,7 @@ public class Example3Controller {
 	@GetMapping("/showform")
 	public String showForm(Model model){
 		model.addAttribute("person", new Person ());
+		
 		return FORM_VIEW;
 		
 	}
