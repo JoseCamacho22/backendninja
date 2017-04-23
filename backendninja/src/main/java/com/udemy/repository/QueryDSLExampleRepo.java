@@ -43,7 +43,8 @@ public class QueryDSLExampleRepo {
 		return query.select(qCourse).from(qCourse).where(predicateBuilder).fetchOne();
 			
 			//List<Course> courses =query.select(qCourse).from(qCourse).where(qCourse.hours.between(20, 50)).fetch();
-			
+		
+		
 	}
 	
 	
