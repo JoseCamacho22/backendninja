@@ -2,6 +2,11 @@ package com.udemy.model;
 
 public class UserCredential {
 
+	@Override
+	public String toString() {
+		return "UserCredential [username=" + username + ", password=" + password + "]";
+	}
+
 	private String username;
 	private String password;
 
