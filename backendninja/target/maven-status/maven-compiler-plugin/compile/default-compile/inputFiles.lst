@@ -1,3 +1,14 @@
 /Users/Jose/git1/backendninja/src/main/java/com/udemy/component/RequestTimeInterceptor.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/entity/Contact.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/controller/ContactController.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/controller/LoginController.java
 /Users/Jose/git1/backendninja/src/main/java/com/udemy/configuration/WebMvcConfiguration.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/service/impl/ContactServiceImpl.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/component/ContactConverter.java
+/Users/Jose/git1/backendninja/target/generated-sources/java/com/udemy/entity/QContact.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/service/ContactService.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/model/UserCredential.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/constant/ViewConstant.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/model/ContactModel.java
 /Users/Jose/git1/backendninja/src/main/java/com/udemy/BackendninjaApplication.java
+/Users/Jose/git1/backendninja/src/main/java/com/udemy/repository/ContactRepository.java
